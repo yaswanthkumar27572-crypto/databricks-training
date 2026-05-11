@@ -31,5 +31,4 @@ This workspace targets intermediate to advanced analytic queries utilizing **Com
 
 
 
----
-*Author: M. Yaswanth* *Data Engineering Trainee*
+
