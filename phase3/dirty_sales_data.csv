@@ -1,0 +1,17 @@
+transaction_id,customer_id,product_name,category,quantity,unit_price,total_amount,transaction_date,payment_method
+1001,C01,Laptop,Electronics,1.0,1200.0,1200.0,2026-07-01,Credit Card
+1002,C02,Smartphone,Electronics,2.0,800.0,1600.0,2026-07-01,PayPal
+1003,C03,Headphones,Audio,,150.0,,2026-07-02,Credit Card
+1004,C04,Monitor,Electronics,1.0,300.0,300.0,2026-07-02,Debit Card
+1005,C01,Keyboard,Accessories,3.0,45.0,135.0,2026-07-03,Cash
+1002,C02,Smartphone,Electronics,2.0,800.0,1600.0,2026-07-01,PayPal
+1006,C06,Mouse,Accessories,-1.0,25.0,-25.0,2026-07-03,Credit Card
+1007,C07,Laptop,ELECTRONICS,1.0,1200.0,1200.0,04-07-2026,Credit Card
+1008,C08,Tablet,Electronics,2.0,450.0,900.0,2026-07-04,
+1009,C09,Smartwatch,Wearables,1.0,250.0,250.0,2026/07/05,UPI
+1010,C10,Charger,Accessories,5.0,15.0,75.0,2026-07-05,Cash
+1011,C11,Laptop,Electronics,,1200.0,1500.0,2026-07-06,Credit Card
+1012,C12,Headphones,Audio,2.0,150.0,300.0,2026-07-06,PayPal
+1013,C13,Monitor,Electronics,1.0,300.0,,2026-07-07,Debit Card
+1014,C14,Keyboard,Accessories,4.0,45.0,180.0,2026-07-07,Cash
+1015,C15,Mouse,Accessories,1.0,25.0,25.0,2026-07-08,UPI
