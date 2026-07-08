@@ -85,5 +85,3 @@ spark.sql("SELECT * FROM workspace.default.final_report").show()
 - Writing Spark tables
 - Building an ETL pipeline in Databricks
 
-## Author
-**Mummidi Yaswanth Kumar**
